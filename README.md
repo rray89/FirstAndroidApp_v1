@@ -1,2 +1,4 @@
 # FirstAndroidApp_v1
-A Hello Word example for Android Development
+# rray
+# May 10, 2017
+A Hello World example for Android Development. 
